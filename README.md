@@ -1,1 +1,1 @@
-# electron-forge-playground-release
+# Electron Forge Playground Releases
